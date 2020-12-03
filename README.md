@@ -1,2 +1,4 @@
-# unity-cinemachine-extension
-Extension for unity cinemachine
+# UCE
+
+Unity Cinemachine Extension
+

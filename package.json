@@ -1,0 +1,15 @@
+{
+  "name": "com.rayn.uce",
+  "version": "1.0.0",
+  "displayName": "UnityCinemachineExtension",
+  "description": "Unity Cinemachine Extension",
+  "author": {
+    "name": "rayn",
+    "email": "coderyrh9236@gmail.com",
+    "url": "https://github.com/yangruihan"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.cinemachine": "2.6.3"
+  }
+}
